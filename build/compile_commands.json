@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/t430/Documents/Developpement/C/ballistics_cpp_lib/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/ballistics_cpp_lib.dir/main.cpp.o -c /home/t430/Documents/Developpement/C/ballistics_cpp_lib/main.cpp",
+  "file": "/home/t430/Documents/Developpement/C/ballistics_cpp_lib/main.cpp"
+}
+]
